@@ -1,0 +1,1 @@
+If you plan on editing https://github.com/pret/pokeheartgold to make your own version to edit, you will need to compile the rom, then edit it using Tinke to unpack the a > 0 > 4 > 6 files and replace the images with the pngs listed.
